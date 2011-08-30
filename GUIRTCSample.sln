@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntegerInputRTCComp", "IntegerInputRTCComp_vc9.vcproj", "{108E43AF-FC35-4819-A607-EBF7CF9F0423}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntegerInputRTC", "IntegerInputRTC_vc9.vcproj", "{9AD7C894-CA07-42BE-A3A6-5A1A76A21901}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntegerOutputRTC", "IntegerOutputRTC_vc9.vcproj", "{E0B0298D-6AFF-45C5-98A2-CE8D2FCCBC5C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntegerOutputRTCComp", "IntegerOutputRTCComp_vc9.vcproj", "{6F42BB96-452B-4ADC-B3AB-2D59565B5740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{108E43AF-FC35-4819-A607-EBF7CF9F0423}.Debug|Win32.ActiveCfg = Debug|Win32
+		{108E43AF-FC35-4819-A607-EBF7CF9F0423}.Debug|Win32.Build.0 = Debug|Win32
+		{108E43AF-FC35-4819-A607-EBF7CF9F0423}.Release|Win32.ActiveCfg = Release|Win32
+		{108E43AF-FC35-4819-A607-EBF7CF9F0423}.Release|Win32.Build.0 = Release|Win32
+		{9AD7C894-CA07-42BE-A3A6-5A1A76A21901}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9AD7C894-CA07-42BE-A3A6-5A1A76A21901}.Release|Win32.ActiveCfg = Release|Win32
+		{E0B0298D-6AFF-45C5-98A2-CE8D2FCCBC5C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0B0298D-6AFF-45C5-98A2-CE8D2FCCBC5C}.Release|Win32.ActiveCfg = Release|Win32
+		{6F42BB96-452B-4ADC-B3AB-2D59565B5740}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F42BB96-452B-4ADC-B3AB-2D59565B5740}.Debug|Win32.Build.0 = Debug|Win32
+		{6F42BB96-452B-4ADC-B3AB-2D59565B5740}.Release|Win32.ActiveCfg = Release|Win32
+		{6F42BB96-452B-4ADC-B3AB-2D59565B5740}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
